@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nilesh Bera</h1>
+
 <h3 align="center">🚀 Developer | Building Ideas into Products</h3>
 
 <p align="center">
-Passionate about building scalable apps, experimenting with new technologies, and turning ideas into real-world solutions.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Hackathon+Builder;Building+Startup+Ideas;Learning+System+Design;Exploring+AI+Tools" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nilesh384&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -21,19 +28,9 @@ Passionate about building scalable apps, experimenting with new technologies, an
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nilesh384&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nilesh384&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh384&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nilesh384&theme=react-dark&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh384&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -41,10 +38,10 @@ Passionate about building scalable apps, experimenting with new technologies, an
 
 # 🧠 Current Focus
 
-- 🚀 Building full stack applications  
-- 🤖 Exploring AI + automation tools  
-- 🧠 Learning system design & scalable architecture  
-- 🏆 Participating in hackathons  
+🚀 Building full stack applications  
+🤖 Exploring AI + automation tools  
+🧠 Learning system design & scalable architecture  
+🏆 Participating in hackathons  
 
 ---
 
@@ -53,12 +50,12 @@ Passionate about building scalable apps, experimenting with new technologies, an
 | Project | Description |
 |------|-------------|
 | Service Platform | Urban Company style service booking platform |
-| Exam Scheduler | Convert exam schedules to Google Calendar automatically |
+| Exam Scheduler | Convert exam schedules into Google Calendar automatically |
 | Flight Management System | Software engineering academic project |
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -70,8 +67,20 @@ Passionate about building scalable apps, experimenting with new technologies, an
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
+<a href="https://nileshbera.in">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-⭐️ From [Nilesh Bera](https://github.com/nilesh384)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+⭐ From [Nilesh Bera](https://nileshbera.in)
