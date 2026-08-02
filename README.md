@@ -83,4 +83,4 @@
 
 ---
 
-⭐ From [Nilesh Bera](https://nileshbera.in)
+From [Nilesh Bera](https://nileshbera.in)
