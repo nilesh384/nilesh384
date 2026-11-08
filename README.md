@@ -23,7 +23,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=nilesh384&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/nilesh384?style=flat-square&color=blue&label=FOLLOWERS"/>
+
 
 </div>
 
