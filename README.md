@@ -24,6 +24,28 @@
 
 ---
 
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/4befed21-6b2a-4789-9ad8-f6fe20eecce4/public_url">
+  <img src="./assets/aws-cloud-practitioner.png"
+       alt="AWS Certified Cloud Practitioner"
+       width="150"/>
+</a>
+
+<br/>
+
+**AWS Certified Cloud Practitioner**
+<br/>
+<sub>Amazon Web Services · Foundational</sub>
+
+</div>
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
